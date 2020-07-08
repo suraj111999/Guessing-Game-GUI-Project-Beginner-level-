@@ -13,4 +13,6 @@ Procedure to play the game:-
 3.You have to enter a number until you guess the right number.
 
 # Sample:-
+<div align="center">
 ![finaloutput](https://user-images.githubusercontent.com/60891874/86973645-8f319a00-c192-11ea-9fbb-e5bfbab761ee.gif)
+ </div>
